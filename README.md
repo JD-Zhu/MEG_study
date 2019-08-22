@@ -24,7 +24,7 @@ We are happy to answer any questions. Please contact: [di.zhu@mq.edu.au](mailto:
 
 <br>
 
-<b>To sign up for the study, please complete the Qualtrics form below. We will get in touch with you shortly!</b>
+<b>To sign up for the study, please complete the Qualtrics form below, and we'll get in touch shortly!</b>
 <br>
 [https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD](https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD)
 <br>
