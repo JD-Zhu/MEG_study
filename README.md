@@ -20,14 +20,14 @@ The study takes place at Macquarie University's <b>[MEG Brain Research Laborator
 * Spent <b>childhood</b> (0~6 years old) in a Mandarin-speaking environment
 * Spent <b>at least 1/5 of your life</b> in an English-speaking environment
 
-We are happy to answer any questions. Please contact: di.zhu@mq.edu.au
+We are happy to answer any questions. Please contact: [di.zhu@mq.edu.au](mailto:di.zhu@mq.edu.au?subject=Bilingual%20MEG%20Study)
 
 <br>
 
-<b>If you would like to sign up, please complete the Qualtrics form below. We will get in touch with you shortly!</b>
+<b>To sign up for the study, please complete the Qualtrics form below. We will get in touch with you shortly!</b>
 <br>
 [https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD](https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD)
 <br>
 <img src="https://github.com/JD-Zhu/MEG_study/raw/master/QR_code_LHQ.png" width="100" height="100">
 <br>
-Password: S990XY
+<b>Password:</b> S990XY
