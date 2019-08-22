@@ -29,5 +29,5 @@ We are happy to answer any questions. Please contact: [di.zhu@mq.edu.au](mailto:
 [https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD](https://mqedu.qualtrics.com/jfe/form/SV_d1lKGKtDf9qwlHD)
 <br>
 <img src="https://github.com/JD-Zhu/MEG_study/raw/master/QR_code_LHQ.png" width="100" height="100">
-<br>
+<br> 
 <b>Password:</b> S990XY
