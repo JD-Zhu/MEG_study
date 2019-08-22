@@ -6,8 +6,7 @@ You are invited to take part in a research study on bilingual speech production.
 We use a brain imaging technique called <b>MEG</b> (magnetoencephalography), which 
 <i>passively</i> records your brain activity while you perform a task. It is like an MRI but without the noise!
 
-The study takes place at Macquarie's MEG Brain Research Laboratory (1 of only 2 in the southern hemisphere!), located in the Australian Hearing Hub:<br>
-https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/facilities/meg
+The study takes place at Macquarie's [MEG Brain Research Laboratory](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/facilities/meg) (1 of only 2 in the southern hemisphere!), located in the Australian Hearing Hub.
 
 The test session takes approximately <b>100 minutes</b>, and you will receive <b>$40 cash</b> as a thank-you.
 
