@@ -1,5 +1,7 @@
 # Bilingual Brain Research<br>中英双语的脑科学研究
 
+![ ](https://www.mq.edu.au/__data/assets/image/0010/187570/MEG_banner_Paul-wright.gif)
+
 You are invited to take part in a research study on bilingual speech production. 
 We use a brain imaging technique called <b>MEG</b> (magnetoencephalography), which 
 <i>passively</i> records your brain activity while you perform a task. It is like an MRI but without the noise!
@@ -22,6 +24,8 @@ The test session takes approximately <b>100 minutes</b>, and you will receive <b
 * Spent <b>at least 1/5 of your life</b> in an English-speaking environment
 
 We are happy to answer any questions. Please contact: di.zhu@mq.edu.au
+
+<br>
 
 <b>If you would like to participate, please complete this short questionnaire, and we will get in touch with you:</b><br>
 [insert tinyURL]	[insert QR code]
