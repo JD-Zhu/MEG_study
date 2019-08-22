@@ -11,7 +11,7 @@ https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-pe
 
 The test session takes approximately <b>100 minutes</b>, and you will receive <b>$40 cash</b> as a thank-you.
 
-<br>
+---
 
 <b>Please ensure you satisfy the following criteria:</b>
 
@@ -27,5 +27,5 @@ We are happy to answer any questions. Please contact: di.zhu@mq.edu.au
 
 <br>
 
-<b>If you would like to participate, please complete this short questionnaire, and we will get in touch with you:</b><br>
+<b>If you would like to participate, please complete this short questionnaire, and we will get in touch with you shortly:</b><br>
 [insert tinyURL]	[insert QR code]
