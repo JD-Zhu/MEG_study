@@ -17,8 +17,7 @@ The study takes place at Macquarie University's <b>[MEG Brain Research Laborator
 * <b>Do not have any non-removable metal</b> in your body (e.g. braces, fixed retainers, crowns, screws, hearing aid, etc)
 * Must be <b>highly proficient</b> in both Mandarin and English
 * Do not speak any other languages (e.g. Cantonese, French)
-* Spent <b>childhood</b> (0~6 years old) in a Mandarin-speaking environment
-* Spent <b>at least 1/5 of your life</b> in an English-speaking environment
+* Spent <b>at least 1/4 of your life</b> in English-speaking countries
 
 We are happy to answer any questions. Please contact: [di.zhu@mq.edu.au](mailto:di.zhu@mq.edu.au?subject=Bilingual%20MEG%20Study)
 
