@@ -1,6 +1,6 @@
 # Bilingual Brain Research<br>中英双语的脑科学研究
 
-<img src="https://www.mq.edu.au/__data/assets/image/0010/187570/MEG_banner_Paul-wright.gif">
+<img src="https://github.com/JD-Zhu/MEG_study/raw/master/pics/MEG_banner_Paul-wright.gif">
 
 You are invited to take part in a research study on bilingual speech production. 
 We use a brain imaging technique called <b>MEG</b> (magnetoencephalography), which 
