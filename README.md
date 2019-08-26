@@ -18,7 +18,7 @@ The study takes place at Macquarie University's <b>[MEG Brain Research Laborator
 * Must be <b>highly proficient</b> in both Mandarin and English
 * Do not speak any other languages (e.g. Cantonese, French)
 * Have spent <b>at least 1/5 of your life</b> in English-speaking countries
-* No formal training or experience in translation/interpreting
+* If you have any formal training or experience in translation/interpreting, this must not exceed 1 year
 
 We are happy to answer any questions. Please contact: [di.zhu@mq.edu.au](mailto:di.zhu@mq.edu.au?subject=Bilingual%20MEG%20Study)
 
