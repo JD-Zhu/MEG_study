@@ -10,7 +10,7 @@ We use a brain imaging technique called <b>MEG</b> (magnetoencephalography), whi
 
 The study takes place at <b>Macquarie University's [MEG Brain Research Laboratory](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/facilities/meg) (1 of only 2 in the southern hemisphere!)</b>, located in the Australian Hearing Hub. The test session takes approximately <b>100 minutes</b>, and you will receive <b>$40 cash</b> as a thank-you. 
 
-This study runs from late August to early October in 2019.
+<i>This study runs from late August to early October in 2019.</i>
 
 ---
 
