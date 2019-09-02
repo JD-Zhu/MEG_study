@@ -1,6 +1,6 @@
 # Bilingual Brain Research<br>中英双语的脑科学研究
 
-<i><b>August 2019</b></i>
+<i><b>September 2019</b></i>
 
 <img src="https://github.com/JD-Zhu/MEG_study/raw/master/pics/MEG_banner_Paul-wright.gif">
 
